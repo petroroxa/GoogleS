@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    }
+]

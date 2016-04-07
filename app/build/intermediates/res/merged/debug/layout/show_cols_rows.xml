@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <TextView android:layout_width="fill_parent"
+            android:layout_height="wrap_content" android:padding="10dp"
+            android:text="Columns name" android:textSize="20sp" />
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:id="@+id/input_rows"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textEmailAddress"
+                android:hint="Specify rows range if needed" />
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:id="@+id/findSelected"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Show columns that are Selected" />
+
+        <ListView android:id="@+id/listView1" android:layout_width="fill_parent"
+            android:layout_height="fill_parent" />
+
+    </LinearLayout>

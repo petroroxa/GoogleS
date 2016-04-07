@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-8.4.0_0d603c1db0c075391977a38ad4f1afde30a28c79.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-8.4.0_e809bfb39cc67650e91b58b2299da7dc59c46958.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client-java6\1.11.0-beta\c07d4fd295d5ddf9e92c23c88f854fb733770d4a\google-oauth-client-java6-1.11.0-beta.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c07d4fd295d5ddf9e92c23c88f854fb733770d4a">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\google-oauth-client-java6-1.11.0-beta_bd156bc4551781c52cf5bb1f8c1b91cf9b55c853.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-8.4.0_5de36a7e635a18129b3235a6983a222c2b22a7fe.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-8.4.0_0722e918a2439bba6eaf7826f3c8954f43e07e2c.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\1.3.9\40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf\jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\jsr305-1.3.9_efaec247314dd7b9e307dd9f2d6a5a03f8be61d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_1899936772b530f5faf5b9e527377c3e4af20440.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-8.4.0_f04dd5921f59433ef0bb22361d19db442bac809e.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-8.4.0_8f5031d86cd9952f727e3becddc817633f08a79d.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client\1.11.0-beta\61b1dde371c6e939bc416e8d19bbed658ff5ca76\google-oauth-client-1.11.0-beta.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="61b1dde371c6e939bc416e8d19bbed658ff5ca76">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\google-oauth-client-1.11.0-beta_30b3e84c775cc2e827966c55ce8995a7f9831cba.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.0_be1bf1ded66ed8f177607986c8ff03d99681be43.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-8.4.0_3533ce5aaffd9cf7d72861c34744c76b67e4365a.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\org.mortbay.jetty\jetty-util\6.1.26\e5642fe0399814e1687d55a3862aa5a3417226a9\jetty-util-6.1.26.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5642fe0399814e1687d55a3862aa5a3417226a9">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\jetty-util-6.1.26_d2eee05c3ed3eecb81d31d35bd6e645ac345247f.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_ce9b4dce1ae53e1de33433fdd50bcb88fc27495f.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\libs\httpcore-4.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e813b8722c387b22e1adccf7914729db09bcb4a9">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\httpcore-4.0.1_2c2d7af64706084a78a2fac7777e0a5b8c029f8e.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-8.4.0_72359b3a57edba546a2b60a45b73febc76099744.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-8.4.0_79f73e9c9fc711731a51f69a311e0277a49693e6.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-8.4.0_fe6dfae1b14dc51b744d9fb0f1bd7baf46959875.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-8.4.0_27a9c17177e0d8406557a3499ab6cb572d19f155.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_251b971e387c03fb6936153ef25c5bf5d2182266.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-8.4.0_88c810b888d3f20a46410fad6e6c4faf49670b2f.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-8.4.0_c5354c9351df5bd1346dbbd81b5ca5418dd324dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\com.google.oauth-client\google-oauth-client-jetty\1.11.0-beta\7264fbc551ad8219b014feb662b1f1d187c2e7b7\google-oauth-client-jetty-1.11.0-beta.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7264fbc551ad8219b014feb662b1f1d187c2e7b7">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\google-oauth-client-jetty-1.11.0-beta_0c32e42954adf9fb8d5411237a151a77463198b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-8.4.0_115747a8e9c125030f88286404932b21f5d99049.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-8.4.0_ad034a0243989fcc5f72cf78328d8eedfef3a826.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-8.4.0_01af1d028405507316903fc2e105e8ff453397d7.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\org.mortbay.jetty\servlet-api\2.5-20081211\22bff70037e1e6fa7e6413149489552ee2064702\servlet-api-2.5-20081211.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="22bff70037e1e6fa7e6413149489552ee2064702">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\servlet-api-2.5-20081211_0ee023f05d254018a7e8f3b0dc6c6db600e79590.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-8.4.0_299c71c756499a9693ffd7e1b819108144a8cb4f.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-8.4.0_65fdc23695044c96e429c179600ce18f04f2a347.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\com.google.gdata\core\1.47.1\52ee0d917c1c3461f6e12079f73ed71bc75f12d4\core-1.47.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="52ee0d917c1c3461f6e12079f73ed71bc75f12d4">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\core-1.47.1_eea700f4184e81249ed00a2077b5ecbf26bc2e01.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_34b1683e20fa3437c01442ca74c0cc18c3a2f41c.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-8.4.0_7715b3832779674ffda9cc8218a91c6dc964f97d.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\libs\httpclient-4.0.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fcacc35075d9c3114da4c4122b42d78786135c90">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\httpclient-4.0.3_9ce80a3d3336ff9d3a36babfbedafa062a2e35a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-8.4.0_879d759a14f784b39b4835413f98a8b6fc5eaeb3.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\javax.activation\activation\1.1\e6cb541461c2834bdea3eb920f1884d1eb508b50\activation-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e6cb541461c2834bdea3eb920f1884d1eb508b50">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\activation-1.1_cbb99482af9565ed1c3b6dc4771063c2705852fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\org.mortbay.jetty\jetty\6.1.26\2f546e289fddd5b1fab1d4199fbb6e9ef43ee4b0\jetty-6.1.26.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2f546e289fddd5b1fab1d4199fbb6e9ef43ee4b0">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\jetty-6.1.26_4c2aa484d2e144a9aeb83bcd93cfb51f0bd30029.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\javax.mail\mail\1.4\1aa1579ae5ecd41920c4f355b0a9ef40b68315dd\mail-1.4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa1579ae5ecd41920c4f355b0a9ef40b68315dd">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\mail-1.4_f47587a7d122126d4cbb56252105c10329519a3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_323f12c6aa37ebf2a1062bd0743eedd1452ebc1b.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_5fb37f6b47011dd880156bbb6f2da2642f8b4f0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_b8a48bfa6fc48c99aafd7dc5351d84c956bb21d5.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-measurement-8.4.0_ca4c996cdba5c88668a10f12cb519b44e234a654.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\18.0\cce0823396aa693798f8882e64213b1772032b09\guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\guava-18.0_2a636a1403fe0cc2bd7e0cbbd5eab3ef1e0da61a.jar" />
+    </item>
+    <item
+        jar="C:\Users\roxana\.gradle\caches\modules-2\files-2.1\com.google.http-client\google-http-client\1.11.0-beta\bb1fae47509938d157259414386e3e6c083935d\google-http-client-1.11.0-beta.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0bb1fae47509938d157259414386e3e6c083935d">
+        <dex dex="C:\Users\roxana\Downloads\SpreadsheetTest-master2\app\build\intermediates\pre-dexed\debug\google-http-client-1.11.0-beta_4d1943f99502a98db12321639257b2c78189b71b.jar" />
+    </item>
+
+</items>
