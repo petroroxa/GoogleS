@@ -26,6 +26,10 @@
         </activity>
         <activity android:name="com.spreadsheets.Add">
         </activity>
+        <activity android:name="com.spreadsheets.Sort">
+        </activity>
+        <activity android:name="com.spreadsheets.Update">
 
+        </activity>
     </application>
 </manifest>

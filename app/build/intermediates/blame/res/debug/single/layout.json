@@ -1,7 +1,19 @@
 [
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sort.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\sort.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -10,6 +22,10 @@
     {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
@@ -40,6 +56,14 @@
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\delete_dialog.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\delete_dialog.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
@@ -56,6 +80,14 @@
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_fragment.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\search_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
     },
@@ -64,12 +96,16 @@
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
-    },
-    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
@@ -90,6 +126,10 @@
     {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
@@ -132,6 +172,10 @@
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
@@ -158,6 +202,14 @@
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
@@ -188,6 +240,18 @@
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_list_item.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\show_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
@@ -208,12 +272,28 @@
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item_separator.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tbl.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\tbl.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\input_dialog.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\input_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
@@ -230,6 +310,10 @@
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
@@ -254,6 +338,14 @@
     {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_fragment.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\src\\main\\res\\layout\\show_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_cols_rows.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\show_cols_rows.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
@@ -284,12 +376,20 @@
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_snackbar.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main2.xml",
@@ -308,6 +408,10 @@
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_content_include.xml"
     },
@@ -316,16 +420,20 @@
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\src\\main\\res\\layout\\show_cols_rows.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_fragment.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\show_fragment.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
-    },
-    {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
@@ -338,6 +446,10 @@
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
@@ -384,6 +496,10 @@
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
@@ -396,24 +512,36 @@
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
-    },
-    {
-        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main2.xml",
-        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\src\\main\\res\\layout\\main2.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
+        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main2.xml",
+        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\src\\main\\res\\layout\\main2.xml"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
@@ -452,8 +580,20 @@
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filters.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\filters.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\row_layout.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\src\\main\\res\\layout\\row_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\update.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
@@ -466,6 +606,10 @@
     {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
@@ -492,6 +636,14 @@
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
     },
@@ -500,12 +652,28 @@
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_big_media.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\table.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\src\\main\\res\\layout\\table.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\add_layout.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\add_layout.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
@@ -524,12 +692,12 @@
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\select_dialog_item_material.xml"
     },
     {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
@@ -572,6 +740,10 @@
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\src\\main\\res\\layout\\main.xml"
     },
@@ -608,12 +780,12 @@
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
@@ -638,6 +810,10 @@
     {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\show_list_group.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\show_list_group.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
@@ -666,6 +842,14 @@
     {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
@@ -704,8 +888,16 @@
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_media.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -748,16 +940,32 @@
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
@@ -768,28 +976,44 @@
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
@@ -820,6 +1044,10 @@
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_fragment.xml"
     },
@@ -828,12 +1056,28 @@
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
@@ -884,20 +1128,24 @@
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
-        "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
-    },
-    {
-        "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\table.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\layout\\table.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
@@ -912,6 +1160,10 @@
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_select_dialog_material.xml"
     },
@@ -922,6 +1174,10 @@
     {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\table.xml",
@@ -956,6 +1212,10 @@
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\src\\main\\res\\layout\\main.xml"
     },
@@ -964,8 +1224,16 @@
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\layout\\abc_screen_simple.xml"
     },
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",

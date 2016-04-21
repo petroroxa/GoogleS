@@ -12,11 +12,15 @@
         "source": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
     },
     {
-        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
-        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
     },
     {
         "merged": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
         "source": "C:\\home\\red\\Work\\Licenta\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\layout-v21\\place_autocomplete_fragment.xml"
     }
 ]

@@ -3,14 +3,12 @@ package com.spreadsheets;
 
 import android.content.Context;
 import android.content.Intent;
+import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
-import android.support.v7.widget.PopupMenu;
 import android.util.Log;
 import android.view.ContextMenu;
 import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
@@ -18,13 +16,25 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.ExpandableListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
+import com.google.gdata.client.spreadsheet.ListQuery;
+import com.google.gdata.data.spreadsheet.CellEntry;
+import com.google.gdata.data.spreadsheet.CellFeed;
+import com.google.gdata.data.spreadsheet.ListEntry;
+import com.google.gdata.data.spreadsheet.ListFeed;
 import com.google.gdata.data.spreadsheet.SpreadsheetEntry;
+import com.google.gdata.data.spreadsheet.WorksheetEntry;
+import com.google.gdata.util.ServiceException;
 
+import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URI;
+import java.net.URISyntaxException;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import spreadsheets.test.spreadsheet.R;
 
@@ -36,6 +46,9 @@ public class Show extends Fragment {
     static String worksheetName;
     static ArrayAdapter<String> arrayAdapter;
     TextView textView;
+    private WorksheetEntry worksheetEntry;
+    private List<String> column_tags;
+
     public Show() {
 
     }
@@ -114,7 +127,6 @@ public class Show extends Fragment {
         );
 
 
-
     }
 
     public void addViewList(HashMap<String, List<String>> result) {
@@ -139,48 +151,51 @@ public class Show extends Fragment {
     public void onCreateContextMenu(ContextMenu menu, View v,
                                     ContextMenu.ContextMenuInfo menuInfo) {
         super.onCreateContextMenu(menu, v, menuInfo);
-        menu.add(Menu.NONE, R.id.add, Menu.NONE, "Add rows");
-        menu.add(Menu.NONE, R.id.search, Menu.NONE, "Search");
+        menu.setHeaderTitle("Optiuni");
+        menu.add(0, v.getId(), 0, "Add rows");
+        menu.add(0, v.getId(), 0, "Sort by column name");
+        menu.add(0, v.getId(), 0, "Update row");
 
 
     }
 
     public boolean onContextItemSelected(MenuItem item) {
+        if (item.getTitle() == "Add rows") {
+            Log.i("Pos", spreadsheetName + " " + worksheetName);
+            Intent intentAdd = new Intent(getActivity().getApplicationContext(), Add.class);
+            intentAdd.putExtra("Sp name", spreadsheetName);
+            intentAdd.putExtra("Wk name", worksheetName);
+            Log.i("sp name", spreadsheetName);
+            Log.i("wk name", worksheetName);
+            startActivity(intentAdd);
 
-        switch (item.getItemId()) {
-            case R.id.add:
+            return true;
+        } else if (item.getTitle() == "Sort by column name") {
+            Log.i("Pos", spreadsheetName + " " + worksheetName);
+            Intent intentShow = new Intent(getActivity().getApplicationContext(), Sort.class);
+            intentShow.putExtra("Sp name", spreadsheetName);
+            intentShow.putExtra("Wk name", worksheetName);
+            Log.i("sp name", spreadsheetName);
+            Log.i("wk name", worksheetName);
+            startActivity(intentShow);
 
-                Log.i("Pos", spreadsheetName + " " + worksheetName);
-                Intent intent = new Intent(getActivity().getApplicationContext(), Add.class);
-                intent.putExtra("Sp name", spreadsheetName);
-                intent.putExtra("Wk name", worksheetName);
-                Log.i("sp name", spreadsheetName);
-                Log.i("wk name", worksheetName);
-                startActivity(intent);
+            return true;
+        }else if (item.getTitle() == "Update row") {
+            Log.i("Pos", spreadsheetName + " " + worksheetName);
+            Intent intentShow = new Intent(getActivity().getApplicationContext(), Update.class);
+            intentShow.putExtra("Sp name", spreadsheetName);
+            intentShow.putExtra("Wk name", worksheetName);
+            Log.i("sp name", spreadsheetName);
+            Log.i("wk name", worksheetName);
+            startActivity(intentShow);
 
-                return true;
-            case R.id.search:
-
-
-                return true;
-            default:
-                return super.onContextItemSelected(item);
+            return true;
         }
+        return super.onContextItemSelected(item);
     }
 
 
-    /*@Override
-    public boolean onMenuItemClick(MenuItem item) {
-        switch (item.getItemId()) {
-            case R.id.show:
-                //archive(item);
-                return true;
-            case R.id.show2:
-               // delete(item);
-                return true;
-            default:
-                return false;
-        }
-    }*/
-
 }
+
+
+

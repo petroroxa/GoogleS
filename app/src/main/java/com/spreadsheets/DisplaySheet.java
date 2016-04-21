@@ -18,10 +18,6 @@ import java.util.List;
 
 import spreadsheets.test.spreadsheet.R;
 
-/**
- * Created by red on 30.01.2016.
- */
-
 public class DisplaySheet extends Activity implements Serializable{
 
     TableLayout table_layout;

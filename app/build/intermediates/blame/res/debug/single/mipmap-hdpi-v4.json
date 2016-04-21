@@ -1,5 +1,13 @@
 [
     {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\form.png",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\mipmap-hdpi\\form.png"
+    },
+    {
+        "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\form.png",
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\Spreadsheet\\app\\src\\main\\res\\mipmap-hdpi\\form.png"
     }

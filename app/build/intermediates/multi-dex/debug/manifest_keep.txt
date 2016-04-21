@@ -2,6 +2,8 @@
 -keep class com.spreadsheets.ShowWorksheet { <init>(); }
 -keep class com.spreadsheets.ShowColumnsOrRows { <init>(); }
 -keep class com.spreadsheets.Add { <init>(); }
+-keep class com.spreadsheets.Sort { <init>(); }
+-keep class com.spreadsheets.Update { <init>(); }
 -keep class com.google.android.gms.ads.AdActivity { <init>(); }
 -keep class com.google.android.gms.ads.purchase.InAppPurchaseActivity { <init>(); }
 -keep class com.google.android.gms.appinvite.PreviewActivity { <init>(); }

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="20px">
+    <EditText
+        android:layout_width="178px"
+        android:layout_height="wrap_content"
+        android:id="@+id/search_edit_text"
+        android:text="Search value">
+
+        <requestFocus />
+    </EditText>
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        android:id="@+id/search_button"
+        android:layout_gravity="right" />
+
+</LinearLayout>
+
+
+    <LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+        android:orientation="horizontal"
+    android:id="@+id/tableValues">
+
+
+    </LinearLayout>
+<!--
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="356dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50px"
+        android:layout_marginTop="50px"
+        android:id="@+id/update_layout">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Specify the column and the row you wish to modify"
+            android:id="@+id/comm"
+            />
+
+        <Spinner
+        android:layout_width="223dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/update_spinner" />
+        <Spinner
+            android:layout_width="223dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/row_spinner" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="297dp"
+            android:layout_height="wrap_content">
+            <EditText
+                android:layout_width="300px"
+                android:layout_height="wrap_content"
+                android:id="@+id/update_edit_text"
+                android:text="Set value"
+                />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Update value"
+                android:id="@+id/update_button" />
+
+        </LinearLayout>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Delete value"/>
+
+        <SearchView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"></SearchView>
+
+    </LinearLayout>-->
+</LinearLayout>

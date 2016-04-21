@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/sortLayout">
+
+    <TextView
+        style="@style/QText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Select column"
+        android:id="@+id/textView5"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/linearLayout"
+        android:singleLine="true"
+        android:layout_marginLeft="20px"
+        android:layout_marginTop="30px"
+        android:gravity="center"/>
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sort_spinner"
+        android:layout_below="@+id/textView4"
+        android:layout_alignParentStart="true"
+        android:spinnerMode="dropdown" />
+
+    <Spinner
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/col_spinner"
+    android:layout_below="@+id/textView4"
+    android:layout_alignParentStart="true"
+    android:spinnerMode="dropdown" />
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/value_spinner"
+        android:layout_below="@+id/textView4"
+        android:layout_alignParentStart="true"
+        android:spinnerMode="dropdown" />
+    <EditText
+        android:id="@+id/queries"
+        android:layout_width="300px"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        style="@style/QText">
+        <RadioButton android:id="@+id/asc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sort ascending"
+            android:onClick="onRadioButtonClicked"
+            android:checked="false" />
+        <RadioButton android:id="@+id/desc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sort descending"
+            android:onClick="onRadioButtonClicked"/>
+
+        <Space
+            android:layout_width="20px"
+            android:layout_height="20px" />
+    </RadioGroup>
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Display"
+        android:id="@+id/button"
+        android:layout_gravity="center_horizontal" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal">
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:scrollbars="none">
+            <HorizontalScrollView android:id="@+id/HorizontalScrollView01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                    android:id="@+id/tbl"
+                    android:orientation="vertical"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:weightSum="1">
+                </LinearLayout>
+            </HorizontalScrollView>
+        </ScrollView>
+    </LinearLayout>
+
+</LinearLayout>

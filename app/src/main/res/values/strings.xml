@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Spreadsheet</string>
+    <string-array name="options">
+
+        <item>Specify query</item>
+        <item>Search in table value</item>
+        <item>Sort by column</item>
+
+    </string-array>
+    <string-array name="value_pick">
+        <item>Specify values</item>
+        <item>Equal to</item>
+        <item>Grater than</item>
+        <item>Smaller than</item>
+    </string-array>
+
+
 </resources>
