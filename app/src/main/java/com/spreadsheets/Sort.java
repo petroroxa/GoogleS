@@ -146,7 +146,7 @@ public class Sort extends Activity implements AdapterView.OnItemSelectedListener
                         new Task5().execute();
                     }
                     Log.i("query" , queryText);
-                }else if(option.equals("Search in table value")) {
+                }else if(option.equals("SearchAll in table value")) {
                     queryText =  queryValue.getText().toString();
                     if (asc) {
                         new Task6().execute();

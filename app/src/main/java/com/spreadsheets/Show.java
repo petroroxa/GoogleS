@@ -180,13 +180,19 @@ public class Show extends Fragment {
             startActivity(intentShow);
 
             return true;
-        }else if (item.getTitle() == "Update row") {
+        } else if (item.getTitle() == "Update row") {
             Log.i("Pos", spreadsheetName + " " + worksheetName);
-            Intent intentShow = new Intent(getActivity().getApplicationContext(), Update.class);
-            intentShow.putExtra("Sp name", spreadsheetName);
-            intentShow.putExtra("Wk name", worksheetName);
-            Log.i("sp name", spreadsheetName);
-            Log.i("wk name", worksheetName);
+            Intent intentShow = new Intent(getActivity().getApplicationContext(), Search.class);
+            if (worksheetName != null) {
+                intentShow.putExtra("Sp name", spreadsheetName);
+                intentShow.putExtra("Wk name", worksheetName);
+                Log.i("sp name", spreadsheetName);
+                Log.i("wk name", worksheetName);
+            }else{
+                intentShow.putExtra("Sp name", spreadsheetName);
+                Log.i("sp name", spreadsheetName);
+            }
+
             startActivity(intentShow);
 
             return true;

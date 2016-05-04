@@ -9,6 +9,8 @@ import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.ContextMenu;
 import android.view.Gravity;
@@ -50,7 +52,7 @@ import spreadsheets.test.spreadsheet.R;
 /**
  * Created by Roxana on 4/18/2016.
  */
-public class Update extends Activity implements AdapterView.OnItemSelectedListener {
+public class Update extends AppCompatActivity implements AdapterView.OnItemSelectedListener {
     private String spreadsheetName;
     private String worksheetName;
     URL listFeedUrl;
@@ -84,19 +86,21 @@ public class Update extends Activity implements AdapterView.OnItemSelectedListen
         worksheetName = null;
         if (intent.getExtras() != null) {
             spreadsheetName = intent.getStringExtra("Sp name");
-            worksheetName = intent.getStringExtra("Wk name");
+            if(intent.getStringExtra("Wk name")!=null) {
+                worksheetName = intent.getStringExtra("Wk name");
+            }
         }
         Log.i("Sp name", spreadsheetName);
         Log.i("Wk name", worksheetName);
 
+        Toolbar myToolbar = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(myToolbar);
         table_layout = new TableLayout(this);
         new Load().execute();
         Button searchButton = (Button) findViewById(R.id.search_button);
         searchButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                EditText search = (EditText) findViewById(R.id.search_edit_text);
-                queryText = search.getText().toString();
                 new Task1().execute();
             }
         });
@@ -176,7 +180,7 @@ public class Update extends Activity implements AdapterView.OnItemSelectedListen
 
 
         public List<String> doInBackground(Void... params) {
-
+            tableString.clear();
             ListQuery listQuery = new ListQuery(listFeedUrl);
             listQuery.setFullTextQuery(queryText);
 

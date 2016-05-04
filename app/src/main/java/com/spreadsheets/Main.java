@@ -4,7 +4,6 @@ import android.accounts.Account;
 import android.accounts.AccountManager;
 import android.accounts.AccountManagerCallback;
 import android.accounts.AccountManagerFuture;
-import android.content.Intent;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
@@ -13,15 +12,12 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.PopupMenu;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
-import android.view.ContextMenu;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.AdapterView;
 import android.widget.ProgressBar;
 
 import com.google.gdata.client.spreadsheet.SpreadsheetService;
@@ -75,7 +71,7 @@ public class Main extends AppCompatActivity {
     private void setupViewPager(ViewPager viewPager) {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new Show(), "Show");
-        adapter.addFragment(new Search(), "Search");
+        adapter.addFragment(new SearchAll(), "SearchAll");
         viewPager.setAdapter(adapter);
     }
 
@@ -210,7 +206,7 @@ public class Main extends AppCompatActivity {
                 // User chose the "Settings" item, show the app settings UI...
                 return true;
 
-            case R.id.action_favorite:
+            case R.id.action_search:
                 // User chose the "Favorite" action, mark the current item
                 // as a favorite...
                 return true;
