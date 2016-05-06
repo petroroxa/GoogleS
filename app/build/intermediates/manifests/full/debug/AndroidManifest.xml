@@ -25,7 +25,7 @@
     <application
         android:icon="@drawable/icon"
         android:label="@string/app_name"
-        android:theme="@style/MyMaterialTheme" >
+        android:theme="@style/MyMaterialTheme.Base" >
         <activity android:name="com.spreadsheets.Main" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -42,6 +42,31 @@
         <activity android:name="com.spreadsheets.Sort" >
         </activity>
         <activity android:name="com.spreadsheets.Update" >
+        </activity>
+        <activity android:name="com.spreadsheets.Search" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.default_searchable"
+                android:value="com.spreadsheets.ContextSearch" />
+            <!--  -->
+
+        </activity>
+        <activity
+            android:name="com.spreadsheets.ContextSearch"
+            android:launchMode="singleTop"
+            android:windowSoftInputMode="stateHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
         </activity>
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity

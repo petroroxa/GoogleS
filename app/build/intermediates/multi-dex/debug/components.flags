@@ -36,6 +36,14 @@
     <init>();
 }
 
+-keep class com.spreadsheets.Search {
+    <init>();
+}
+
+-keep class com.spreadsheets.ContextSearch {
+    <init>();
+}
+
 -keep class com.google.android.gms.ads.AdActivity {
     <init>();
 }

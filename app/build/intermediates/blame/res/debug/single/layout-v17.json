@@ -16,11 +16,11 @@
         "source": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout-v17\\mr_media_route_list_item.xml"
     },
     {
-        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
-        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout-v17\\mr_media_route_list_item.xml"
-    },
-    {
         "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
         "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout-v17\\mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v17\\mr_media_route_list_item.xml",
+        "source": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout-v17\\mr_media_route_list_item.xml"
     }
 ]

@@ -2710,6 +2710,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0f0079;
         public static final int action_mode_bar_stub=0x7f0f0078;
         public static final int action_mode_close_button=0x7f0f0061;
+        public static final int action_search=0x7f0f00e0;
         public static final int action_settings=0x7f0f00da;
         public static final int activity_chooser_view_content=0x7f0f0062;
         public static final int add=0x7f0f00dd;
@@ -3000,6 +3001,7 @@ containing a value of this type.
         public static final int action_button_menu=0x7f100000;
         public static final int cell_menu=0x7f100001;
         public static final int context_menu=0x7f100002;
+        public static final int search_menu=0x7f100003;
     }
     public static final class mipmap {
         public static final int form=0x7f030000;

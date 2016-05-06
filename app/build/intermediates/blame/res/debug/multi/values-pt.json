@@ -3492,7 +3492,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\values-pt\\values-pt.xml",
+        "outputFile": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\values-pt\\values-pt.xml",
         "map": [
             {
                 "to": {
@@ -3503,13 +3503,13 @@
                     "endOffset": 220
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 280,
+                        "startOffset": 276,
                         "endColumn": 119,
-                        "endOffset": 395
+                        "endOffset": 391
                     }
                 }
             },
@@ -3522,13 +3522,13 @@
                     "endOffset": 328
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 400,
+                        "startOffset": 396,
                         "endColumn": 107,
-                        "endOffset": 503
+                        "endOffset": 499
                     }
                 }
             },
@@ -3541,13 +3541,13 @@
                     "endOffset": 451
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 508,
+                        "startOffset": 504,
                         "endColumn": 122,
-                        "endOffset": 626
+                        "endOffset": 622
                     }
                 }
             },
@@ -3560,13 +3560,13 @@
                     "endOffset": 557
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 631,
+                        "startOffset": 627,
                         "endColumn": 105,
-                        "endOffset": 732
+                        "endOffset": 728
                     }
                 }
             },
@@ -3579,13 +3579,13 @@
                     "endOffset": 664
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 737,
+                        "startOffset": 733,
                         "endColumn": 106,
-                        "endOffset": 839
+                        "endOffset": 835
                     }
                 }
             },
@@ -3598,13 +3598,13 @@
                     "endOffset": 753
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 844,
+                        "startOffset": 840,
                         "endColumn": 88,
-                        "endOffset": 928
+                        "endOffset": 924
                     }
                 }
             },
@@ -3617,13 +3617,13 @@
                     "endOffset": 854
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 933,
+                        "startOffset": 929,
                         "endColumn": 100,
-                        "endOffset": 1029
+                        "endOffset": 1025
                     }
                 }
             },
@@ -3636,13 +3636,13 @@
                     "endOffset": 972
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1034,
+                        "startOffset": 1030,
                         "endColumn": 117,
-                        "endOffset": 1147
+                        "endOffset": 1143
                     }
                 }
             },
@@ -3655,13 +3655,13 @@
                     "endOffset": 1059
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1152,
+                        "startOffset": 1148,
                         "endColumn": 86,
-                        "endOffset": 1234
+                        "endOffset": 1230
                     }
                 }
             },
@@ -3674,13 +3674,13 @@
                     "endOffset": 1166
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1239,
+                        "startOffset": 1235,
                         "endColumn": 106,
-                        "endOffset": 1341
+                        "endOffset": 1337
                     }
                 }
             },
@@ -3693,13 +3693,13 @@
                     "endOffset": 1278
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1346,
+                        "startOffset": 1342,
                         "endColumn": 111,
-                        "endOffset": 1453
+                        "endOffset": 1449
                     }
                 }
             },
@@ -3712,13 +3712,13 @@
                     "endOffset": 1380
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1458,
+                        "startOffset": 1454,
                         "endColumn": 101,
-                        "endOffset": 1555
+                        "endOffset": 1551
                     }
                 }
             },
@@ -3731,13 +3731,13 @@
                     "endOffset": 1488
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1560,
+                        "startOffset": 1556,
                         "endColumn": 107,
-                        "endOffset": 1663
+                        "endOffset": 1659
                     }
                 }
             },
@@ -3750,13 +3750,13 @@
                     "endOffset": 1595
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1668,
+                        "startOffset": 1664,
                         "endColumn": 106,
-                        "endOffset": 1770
+                        "endOffset": 1766
                     }
                 }
             },
@@ -3769,13 +3769,13 @@
                     "endOffset": 1705
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1775,
+                        "startOffset": 1771,
                         "endColumn": 109,
-                        "endOffset": 1880
+                        "endOffset": 1876
                     }
                 }
             },
@@ -3788,13 +3788,13 @@
                     "endOffset": 1830
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1885,
+                        "startOffset": 1881,
                         "endColumn": 124,
-                        "endOffset": 2005
+                        "endOffset": 2001
                     }
                 }
             },
@@ -3807,13 +3807,13 @@
                     "endOffset": 1930
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2010,
+                        "startOffset": 2006,
                         "endColumn": 99,
-                        "endOffset": 2105
+                        "endOffset": 2101
                     }
                 }
             },
@@ -3826,7 +3826,7 @@
                     "endOffset": 2207
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -3845,7 +3845,7 @@
                     "endOffset": 2337
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -3864,7 +3864,7 @@
                     "endOffset": 2517
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -3883,7 +3883,7 @@
                     "endOffset": 2646
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -3902,7 +3902,7 @@
                     "endOffset": 2779
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -3921,7 +3921,7 @@
                     "endOffset": 3004
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -3940,7 +3940,7 @@
                     "endOffset": 3226
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -3959,7 +3959,7 @@
                     "endOffset": 3358
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -3978,7 +3978,7 @@
                     "endOffset": 3534
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -3997,7 +3997,7 @@
                     "endOffset": 3654
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -4016,7 +4016,7 @@
                     "endOffset": 3832
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -4035,7 +4035,7 @@
                     "endOffset": 3951
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -4054,7 +4054,7 @@
                     "endOffset": 4086
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -4073,7 +4073,7 @@
                     "endOffset": 4263
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -4092,7 +4092,7 @@
                     "endOffset": 4390
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -4111,7 +4111,7 @@
                     "endOffset": 4558
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -4130,7 +4130,7 @@
                     "endOffset": 4680
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -4149,7 +4149,7 @@
                     "endOffset": 4949
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-pt\\common_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-pt\\common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -4168,7 +4168,7 @@
                     "endOffset": 5218
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -4187,7 +4187,7 @@
                     "endOffset": 5342
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -4206,7 +4206,7 @@
                     "endOffset": 5452
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -4225,7 +4225,7 @@
                     "endOffset": 5647
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -4244,7 +4244,7 @@
                     "endOffset": 5779
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -4263,7 +4263,7 @@
                     "endOffset": 5995
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -4282,7 +4282,7 @@
                     "endOffset": 6132
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -4301,7 +4301,7 @@
                     "endOffset": 6319
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -4320,7 +4320,7 @@
                     "endOffset": 6417
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -4339,7 +4339,7 @@
                     "endOffset": 6513
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -4358,7 +4358,7 @@
                     "endOffset": 6627
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -4377,7 +4377,7 @@
                     "endOffset": 6738
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -4396,7 +4396,7 @@
                     "endOffset": 6854
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -4415,7 +4415,7 @@
                     "endOffset": 6965
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -4434,7 +4434,7 @@
                     "endOffset": 7071
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -4453,7 +4453,7 @@
                     "endOffset": 7203
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -4472,7 +4472,7 @@
                     "endOffset": 7300
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -4491,7 +4491,7 @@
                     "endOffset": 7400
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -4510,7 +4510,7 @@
                     "endOffset": 7526
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -4529,7 +4529,7 @@
                     "endOffset": 7639
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -4548,7 +4548,7 @@
                     "endOffset": 7726
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -4567,7 +4567,7 @@
                     "endOffset": 7825
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -4586,7 +4586,7 @@
                     "endOffset": 7931
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-pt\\location_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-pt\\location_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -4605,7 +4605,7 @@
                     "endOffset": 8030
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-pt\\location_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-pt\\location_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -4624,13 +4624,13 @@
                     "endOffset": 8131
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2110,
+                        "startOffset": 2106,
                         "endColumn": 100,
-                        "endOffset": 2206
+                        "endOffset": 2202
                     }
                 }
             },
@@ -4643,7 +4643,7 @@
                     "endOffset": 8241
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-pt\\wallet_strings.xml",
+                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-pt\\wallet_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -5820,7 +5820,7 @@
         ]
     },
     {
-        "outputFile": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\res\\merged\\debug\\values-pt\\values-pt.xml",
+        "outputFile": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\values-pt\\values-pt.xml",
         "map": [
             {
                 "to": {
@@ -5831,13 +5831,13 @@
                     "endOffset": 220
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 276,
+                        "startOffset": 280,
                         "endColumn": 119,
-                        "endOffset": 391
+                        "endOffset": 395
                     }
                 }
             },
@@ -5850,13 +5850,13 @@
                     "endOffset": 328
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 396,
+                        "startOffset": 400,
                         "endColumn": 107,
-                        "endOffset": 499
+                        "endOffset": 503
                     }
                 }
             },
@@ -5869,13 +5869,13 @@
                     "endOffset": 451
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 504,
+                        "startOffset": 508,
                         "endColumn": 122,
-                        "endOffset": 622
+                        "endOffset": 626
                     }
                 }
             },
@@ -5888,13 +5888,13 @@
                     "endOffset": 557
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 627,
+                        "startOffset": 631,
                         "endColumn": 105,
-                        "endOffset": 728
+                        "endOffset": 732
                     }
                 }
             },
@@ -5907,13 +5907,13 @@
                     "endOffset": 664
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 733,
+                        "startOffset": 737,
                         "endColumn": 106,
-                        "endOffset": 835
+                        "endOffset": 839
                     }
                 }
             },
@@ -5926,13 +5926,13 @@
                     "endOffset": 753
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 840,
+                        "startOffset": 844,
                         "endColumn": 88,
-                        "endOffset": 924
+                        "endOffset": 928
                     }
                 }
             },
@@ -5945,13 +5945,13 @@
                     "endOffset": 854
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 929,
+                        "startOffset": 933,
                         "endColumn": 100,
-                        "endOffset": 1025
+                        "endOffset": 1029
                     }
                 }
             },
@@ -5964,13 +5964,13 @@
                     "endOffset": 972
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1030,
+                        "startOffset": 1034,
                         "endColumn": 117,
-                        "endOffset": 1143
+                        "endOffset": 1147
                     }
                 }
             },
@@ -5983,13 +5983,13 @@
                     "endOffset": 1059
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1148,
+                        "startOffset": 1152,
                         "endColumn": 86,
-                        "endOffset": 1230
+                        "endOffset": 1234
                     }
                 }
             },
@@ -6002,13 +6002,13 @@
                     "endOffset": 1166
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1235,
+                        "startOffset": 1239,
                         "endColumn": 106,
-                        "endOffset": 1337
+                        "endOffset": 1341
                     }
                 }
             },
@@ -6021,13 +6021,13 @@
                     "endOffset": 1278
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1342,
+                        "startOffset": 1346,
                         "endColumn": 111,
-                        "endOffset": 1449
+                        "endOffset": 1453
                     }
                 }
             },
@@ -6040,13 +6040,13 @@
                     "endOffset": 1380
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1454,
+                        "startOffset": 1458,
                         "endColumn": 101,
-                        "endOffset": 1551
+                        "endOffset": 1555
                     }
                 }
             },
@@ -6059,13 +6059,13 @@
                     "endOffset": 1488
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1556,
+                        "startOffset": 1560,
                         "endColumn": 107,
-                        "endOffset": 1659
+                        "endOffset": 1663
                     }
                 }
             },
@@ -6078,13 +6078,13 @@
                     "endOffset": 1595
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1664,
+                        "startOffset": 1668,
                         "endColumn": 106,
-                        "endOffset": 1766
+                        "endOffset": 1770
                     }
                 }
             },
@@ -6097,13 +6097,13 @@
                     "endOffset": 1705
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1771,
+                        "startOffset": 1775,
                         "endColumn": 109,
-                        "endOffset": 1876
+                        "endOffset": 1880
                     }
                 }
             },
@@ -6116,13 +6116,13 @@
                     "endOffset": 1830
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1881,
+                        "startOffset": 1885,
                         "endColumn": 124,
-                        "endOffset": 2001
+                        "endOffset": 2005
                     }
                 }
             },
@@ -6135,13 +6135,13 @@
                     "endOffset": 1930
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 2006,
+                        "startOffset": 2010,
                         "endColumn": 99,
-                        "endOffset": 2101
+                        "endOffset": 2105
                     }
                 }
             },
@@ -6154,7 +6154,7 @@
                     "endOffset": 2207
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -6173,7 +6173,7 @@
                     "endOffset": 2337
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -6192,7 +6192,7 @@
                     "endOffset": 2517
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -6211,7 +6211,7 @@
                     "endOffset": 2646
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -6230,7 +6230,7 @@
                     "endOffset": 2779
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -6249,7 +6249,7 @@
                     "endOffset": 3004
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -6268,7 +6268,7 @@
                     "endOffset": 3226
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -6287,7 +6287,7 @@
                     "endOffset": 3358
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -6306,7 +6306,7 @@
                     "endOffset": 3534
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -6325,7 +6325,7 @@
                     "endOffset": 3654
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -6344,7 +6344,7 @@
                     "endOffset": 3832
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -6363,7 +6363,7 @@
                     "endOffset": 3951
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -6382,7 +6382,7 @@
                     "endOffset": 4086
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -6401,7 +6401,7 @@
                     "endOffset": 4263
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -6420,7 +6420,7 @@
                     "endOffset": 4390
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -6439,7 +6439,7 @@
                     "endOffset": 4558
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -6458,7 +6458,7 @@
                     "endOffset": 4680
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -6477,7 +6477,7 @@
                     "endOffset": 4949
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-pt\\common_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-pt\\common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -6496,7 +6496,7 @@
                     "endOffset": 5218
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -6515,7 +6515,7 @@
                     "endOffset": 5342
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -6534,7 +6534,7 @@
                     "endOffset": 5452
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -6553,7 +6553,7 @@
                     "endOffset": 5647
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -6572,7 +6572,7 @@
                     "endOffset": 5779
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -6591,7 +6591,7 @@
                     "endOffset": 5995
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -6610,7 +6610,7 @@
                     "endOffset": 6132
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -6629,7 +6629,7 @@
                     "endOffset": 6319
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -6648,7 +6648,7 @@
                     "endOffset": 6417
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -6667,7 +6667,7 @@
                     "endOffset": 6513
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -6686,7 +6686,7 @@
                     "endOffset": 6627
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-pt\\base_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -6705,7 +6705,7 @@
                     "endOffset": 6738
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -6724,7 +6724,7 @@
                     "endOffset": 6854
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -6743,7 +6743,7 @@
                     "endOffset": 6965
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -6762,7 +6762,7 @@
                     "endOffset": 7071
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -6781,7 +6781,7 @@
                     "endOffset": 7203
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -6800,7 +6800,7 @@
                     "endOffset": 7300
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -6819,7 +6819,7 @@
                     "endOffset": 7400
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -6838,7 +6838,7 @@
                     "endOffset": 7526
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -6857,7 +6857,7 @@
                     "endOffset": 7639
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -6876,7 +6876,7 @@
                     "endOffset": 7726
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -6895,7 +6895,7 @@
                     "endOffset": 7825
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -6914,7 +6914,7 @@
                     "endOffset": 7931
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-pt\\location_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-pt\\location_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -6933,7 +6933,7 @@
                     "endOffset": 8030
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-pt\\location_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-pt\\location_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -6952,13 +6952,13 @@
                     "endOffset": 8131
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-pt\\values-pt.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-pt\\values-pt.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2106,
+                        "startOffset": 2110,
                         "endColumn": 100,
-                        "endOffset": 2202
+                        "endOffset": 2206
                     }
                 }
             },
@@ -6971,7 +6971,7 @@
                     "endOffset": 8241
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\Spreadsheet\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-pt\\wallet_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-pt\\wallet_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

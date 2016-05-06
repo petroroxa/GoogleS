@@ -3435,7 +3435,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\values-gl-rES\\values-gl-rES.xml",
+        "outputFile": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\values-gl-rES\\values-gl-rES.xml",
         "map": [
             {
                 "to": {
@@ -3446,13 +3446,13 @@
                     "endOffset": 212
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 284,
+                        "startOffset": 280,
                         "endColumn": 111,
-                        "endOffset": 391
+                        "endOffset": 387
                     }
                 }
             },
@@ -3465,13 +3465,13 @@
                     "endOffset": 320
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 396,
+                        "startOffset": 392,
                         "endColumn": 107,
-                        "endOffset": 499
+                        "endOffset": 495
                     }
                 }
             },
@@ -3484,13 +3484,13 @@
                     "endOffset": 443
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 504,
+                        "startOffset": 500,
                         "endColumn": 122,
-                        "endOffset": 622
+                        "endOffset": 618
                     }
                 }
             },
@@ -3503,13 +3503,13 @@
                     "endOffset": 555
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 627,
+                        "startOffset": 623,
                         "endColumn": 111,
-                        "endOffset": 734
+                        "endOffset": 730
                     }
                 }
             },
@@ -3522,13 +3522,13 @@
                     "endOffset": 663
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 739,
+                        "startOffset": 735,
                         "endColumn": 107,
-                        "endOffset": 842
+                        "endOffset": 838
                     }
                 }
             },
@@ -3541,13 +3541,13 @@
                     "endOffset": 748
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 847,
+                        "startOffset": 843,
                         "endColumn": 84,
-                        "endOffset": 927
+                        "endOffset": 923
                     }
                 }
             },
@@ -3560,13 +3560,13 @@
                     "endOffset": 850
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 932,
+                        "startOffset": 928,
                         "endColumn": 101,
-                        "endOffset": 1029
+                        "endOffset": 1025
                     }
                 }
             },
@@ -3579,13 +3579,13 @@
                     "endOffset": 976
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1034,
+                        "startOffset": 1030,
                         "endColumn": 125,
-                        "endOffset": 1155
+                        "endOffset": 1151
                     }
                 }
             },
@@ -3598,13 +3598,13 @@
                     "endOffset": 1058
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1160,
+                        "startOffset": 1156,
                         "endColumn": 81,
-                        "endOffset": 1237
+                        "endOffset": 1233
                     }
                 }
             },
@@ -3617,13 +3617,13 @@
                     "endOffset": 1165
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1242,
+                        "startOffset": 1238,
                         "endColumn": 106,
-                        "endOffset": 1344
+                        "endOffset": 1340
                     }
                 }
             },
@@ -3636,13 +3636,13 @@
                     "endOffset": 1274
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1349,
+                        "startOffset": 1345,
                         "endColumn": 108,
-                        "endOffset": 1453
+                        "endOffset": 1449
                     }
                 }
             },
@@ -3655,13 +3655,13 @@
                     "endOffset": 1373
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1458,
+                        "startOffset": 1454,
                         "endColumn": 98,
-                        "endOffset": 1552
+                        "endOffset": 1548
                     }
                 }
             },
@@ -3674,13 +3674,13 @@
                     "endOffset": 1481
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1557,
+                        "startOffset": 1553,
                         "endColumn": 107,
-                        "endOffset": 1660
+                        "endOffset": 1656
                     }
                 }
             },
@@ -3693,13 +3693,13 @@
                     "endOffset": 1584
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1665,
+                        "startOffset": 1661,
                         "endColumn": 102,
-                        "endOffset": 1763
+                        "endOffset": 1759
                     }
                 }
             },
@@ -3712,13 +3712,13 @@
                     "endOffset": 1691
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1768,
+                        "startOffset": 1764,
                         "endColumn": 106,
-                        "endOffset": 1870
+                        "endOffset": 1866
                     }
                 }
             },
@@ -3731,13 +3731,13 @@
                     "endOffset": 1813
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1875,
+                        "startOffset": 1871,
                         "endColumn": 121,
-                        "endOffset": 1992
+                        "endOffset": 1988
                     }
                 }
             },
@@ -3750,13 +3750,13 @@
                     "endOffset": 1913
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1997,
+                        "startOffset": 1993,
                         "endColumn": 99,
-                        "endOffset": 2092
+                        "endOffset": 2088
                     }
                 }
             },
@@ -3769,7 +3769,7 @@
                     "endOffset": 2189
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -3788,7 +3788,7 @@
                     "endOffset": 2321
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -3807,7 +3807,7 @@
                     "endOffset": 2516
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -3826,7 +3826,7 @@
                     "endOffset": 2647
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -3845,7 +3845,7 @@
                     "endOffset": 2782
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -3864,7 +3864,7 @@
                     "endOffset": 3003
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -3883,7 +3883,7 @@
                     "endOffset": 3223
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -3902,7 +3902,7 @@
                     "endOffset": 3357
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -3921,7 +3921,7 @@
                     "endOffset": 3539
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -3940,7 +3940,7 @@
                     "endOffset": 3661
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -3959,7 +3959,7 @@
                     "endOffset": 3856
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -3978,7 +3978,7 @@
                     "endOffset": 3989
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -3997,7 +3997,7 @@
                     "endOffset": 4128
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -4016,7 +4016,7 @@
                     "endOffset": 4300
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -4035,7 +4035,7 @@
                     "endOffset": 4430
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -4054,7 +4054,7 @@
                     "endOffset": 4624
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -4073,7 +4073,7 @@
                     "endOffset": 4770
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -4092,7 +4092,7 @@
                     "endOffset": 5022
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-gl-rES\\common_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-gl-rES\\common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -4111,7 +4111,7 @@
                     "endOffset": 5289
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -4130,7 +4130,7 @@
                     "endOffset": 5416
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -4149,7 +4149,7 @@
                     "endOffset": 5527
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -4168,7 +4168,7 @@
                     "endOffset": 5727
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -4187,7 +4187,7 @@
                     "endOffset": 5864
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -4206,7 +4206,7 @@
                     "endOffset": 6088
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -4225,7 +4225,7 @@
                     "endOffset": 6229
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -4244,7 +4244,7 @@
                     "endOffset": 6411
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -4263,7 +4263,7 @@
                     "endOffset": 6507
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -4282,7 +4282,7 @@
                     "endOffset": 6606
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -4301,7 +4301,7 @@
                     "endOffset": 6721
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -4320,7 +4320,7 @@
                     "endOffset": 6828
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -4339,7 +4339,7 @@
                     "endOffset": 6942
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -4358,7 +4358,7 @@
                     "endOffset": 7053
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -4377,7 +4377,7 @@
                     "endOffset": 7159
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -4396,7 +4396,7 @@
                     "endOffset": 7292
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -4415,7 +4415,7 @@
                     "endOffset": 7388
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -4434,7 +4434,7 @@
                     "endOffset": 7487
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -4453,7 +4453,7 @@
                     "endOffset": 7613
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -4472,7 +4472,7 @@
                     "endOffset": 7718
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -4491,7 +4491,7 @@
                     "endOffset": 7805
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -4510,7 +4510,7 @@
                     "endOffset": 7904
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -4529,7 +4529,7 @@
                     "endOffset": 8008
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-gl-rES\\location_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-gl-rES\\location_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -4548,7 +4548,7 @@
                     "endOffset": 8104
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-gl-rES\\location_strings.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-gl-rES\\location_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -4567,13 +4567,13 @@
                     "endOffset": 8205
                 },
                 "from": {
-                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2097,
+                        "startOffset": 2093,
                         "endColumn": 100,
-                        "endOffset": 2193
+                        "endOffset": 2189
                     }
                 }
             }
@@ -5725,7 +5725,7 @@
         ]
     },
     {
-        "outputFile": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\res\\merged\\debug\\values-gl-rES\\values-gl-rES.xml",
+        "outputFile": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\res\\merged\\debug\\values-gl-rES\\values-gl-rES.xml",
         "map": [
             {
                 "to": {
@@ -5736,13 +5736,13 @@
                     "endOffset": 212
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 280,
+                        "startOffset": 284,
                         "endColumn": 111,
-                        "endOffset": 387
+                        "endOffset": 391
                     }
                 }
             },
@@ -5755,13 +5755,13 @@
                     "endOffset": 320
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 392,
+                        "startOffset": 396,
                         "endColumn": 107,
-                        "endOffset": 495
+                        "endOffset": 499
                     }
                 }
             },
@@ -5774,13 +5774,13 @@
                     "endOffset": 443
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 500,
+                        "startOffset": 504,
                         "endColumn": 122,
-                        "endOffset": 618
+                        "endOffset": 622
                     }
                 }
             },
@@ -5793,13 +5793,13 @@
                     "endOffset": 555
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 623,
+                        "startOffset": 627,
                         "endColumn": 111,
-                        "endOffset": 730
+                        "endOffset": 734
                     }
                 }
             },
@@ -5812,13 +5812,13 @@
                     "endOffset": 663
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 735,
+                        "startOffset": 739,
                         "endColumn": 107,
-                        "endOffset": 838
+                        "endOffset": 842
                     }
                 }
             },
@@ -5831,13 +5831,13 @@
                     "endOffset": 748
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 843,
+                        "startOffset": 847,
                         "endColumn": 84,
-                        "endOffset": 923
+                        "endOffset": 927
                     }
                 }
             },
@@ -5850,13 +5850,13 @@
                     "endOffset": 850
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 928,
+                        "startOffset": 932,
                         "endColumn": 101,
-                        "endOffset": 1025
+                        "endOffset": 1029
                     }
                 }
             },
@@ -5869,13 +5869,13 @@
                     "endOffset": 976
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1030,
+                        "startOffset": 1034,
                         "endColumn": 125,
-                        "endOffset": 1151
+                        "endOffset": 1155
                     }
                 }
             },
@@ -5888,13 +5888,13 @@
                     "endOffset": 1058
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1156,
+                        "startOffset": 1160,
                         "endColumn": 81,
-                        "endOffset": 1233
+                        "endOffset": 1237
                     }
                 }
             },
@@ -5907,13 +5907,13 @@
                     "endOffset": 1165
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1238,
+                        "startOffset": 1242,
                         "endColumn": 106,
-                        "endOffset": 1340
+                        "endOffset": 1344
                     }
                 }
             },
@@ -5926,13 +5926,13 @@
                     "endOffset": 1274
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1345,
+                        "startOffset": 1349,
                         "endColumn": 108,
-                        "endOffset": 1449
+                        "endOffset": 1453
                     }
                 }
             },
@@ -5945,13 +5945,13 @@
                     "endOffset": 1373
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1454,
+                        "startOffset": 1458,
                         "endColumn": 98,
-                        "endOffset": 1548
+                        "endOffset": 1552
                     }
                 }
             },
@@ -5964,13 +5964,13 @@
                     "endOffset": 1481
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1553,
+                        "startOffset": 1557,
                         "endColumn": 107,
-                        "endOffset": 1656
+                        "endOffset": 1660
                     }
                 }
             },
@@ -5983,13 +5983,13 @@
                     "endOffset": 1584
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1661,
+                        "startOffset": 1665,
                         "endColumn": 102,
-                        "endOffset": 1759
+                        "endOffset": 1763
                     }
                 }
             },
@@ -6002,13 +6002,13 @@
                     "endOffset": 1691
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1764,
+                        "startOffset": 1768,
                         "endColumn": 106,
-                        "endOffset": 1866
+                        "endOffset": 1870
                     }
                 }
             },
@@ -6021,13 +6021,13 @@
                     "endOffset": 1813
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1871,
+                        "startOffset": 1875,
                         "endColumn": 121,
-                        "endOffset": 1988
+                        "endOffset": 1992
                     }
                 }
             },
@@ -6040,13 +6040,13 @@
                     "endOffset": 1913
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1993,
+                        "startOffset": 1997,
                         "endColumn": 99,
-                        "endOffset": 2088
+                        "endOffset": 2092
                     }
                 }
             },
@@ -6059,7 +6059,7 @@
                     "endOffset": 2189
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -6078,7 +6078,7 @@
                     "endOffset": 2321
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -6097,7 +6097,7 @@
                     "endOffset": 2516
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -6116,7 +6116,7 @@
                     "endOffset": 2647
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -6135,7 +6135,7 @@
                     "endOffset": 2782
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -6154,7 +6154,7 @@
                     "endOffset": 3003
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -6173,7 +6173,7 @@
                     "endOffset": 3223
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -6192,7 +6192,7 @@
                     "endOffset": 3357
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -6211,7 +6211,7 @@
                     "endOffset": 3539
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -6230,7 +6230,7 @@
                     "endOffset": 3661
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -6249,7 +6249,7 @@
                     "endOffset": 3856
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -6268,7 +6268,7 @@
                     "endOffset": 3989
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -6287,7 +6287,7 @@
                     "endOffset": 4128
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -6306,7 +6306,7 @@
                     "endOffset": 4300
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -6325,7 +6325,7 @@
                     "endOffset": 4430
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -6344,7 +6344,7 @@
                     "endOffset": 4624
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -6363,7 +6363,7 @@
                     "endOffset": 4770
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -6382,7 +6382,7 @@
                     "endOffset": 5022
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-gl-rES\\common_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-gl-rES\\common_strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -6401,7 +6401,7 @@
                     "endOffset": 5289
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -6420,7 +6420,7 @@
                     "endOffset": 5416
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -6439,7 +6439,7 @@
                     "endOffset": 5527
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -6458,7 +6458,7 @@
                     "endOffset": 5727
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -6477,7 +6477,7 @@
                     "endOffset": 5864
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -6496,7 +6496,7 @@
                     "endOffset": 6088
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -6515,7 +6515,7 @@
                     "endOffset": 6229
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -6534,7 +6534,7 @@
                     "endOffset": 6411
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -6553,7 +6553,7 @@
                     "endOffset": 6507
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -6572,7 +6572,7 @@
                     "endOffset": 6606
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -6591,7 +6591,7 @@
                     "endOffset": 6721
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-gl-rES\\base_strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -6610,7 +6610,7 @@
                     "endOffset": 6828
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -6629,7 +6629,7 @@
                     "endOffset": 6942
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -6648,7 +6648,7 @@
                     "endOffset": 7053
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -6667,7 +6667,7 @@
                     "endOffset": 7159
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -6686,7 +6686,7 @@
                     "endOffset": 7292
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -6705,7 +6705,7 @@
                     "endOffset": 7388
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -6724,7 +6724,7 @@
                     "endOffset": 7487
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -6743,7 +6743,7 @@
                     "endOffset": 7613
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -6762,7 +6762,7 @@
                     "endOffset": 7718
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -6781,7 +6781,7 @@
                     "endOffset": 7805
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -6800,7 +6800,7 @@
                     "endOffset": 7904
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -6819,7 +6819,7 @@
                     "endOffset": 8008
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-gl-rES\\location_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-gl-rES\\location_strings.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -6838,7 +6838,7 @@
                     "endOffset": 8104
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-gl-rES\\location_strings.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-gl-rES\\location_strings.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -6857,13 +6857,13 @@
                     "endOffset": 8205
                 },
                 "from": {
-                    "file": "C:\\home\\red\\Work\\SpreadsheetTest-master2\\C:\\Users\\roxana\\Downloads\\SpreadsheetTest-master2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-gl-rES\\values-gl-rES.xml",
+                    "file": "C:\\Users\\Roxana\\Downloads\\Licenta\\GoogleS\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-gl-rES\\values-gl-rES.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2093,
+                        "startOffset": 2097,
                         "endColumn": 100,
-                        "endOffset": 2189
+                        "endOffset": 2193
                     }
                 }
             }
